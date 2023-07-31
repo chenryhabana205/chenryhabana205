@@ -5,3 +5,5 @@
 ![chenryhabana205's github stats](https://github-readme-stats.vercel.app/api?username=chenryhabana205&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenryhabana205&show_icons=true&theme=dracula)](https://github.com/chenryhabana205/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenryhabana205&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
